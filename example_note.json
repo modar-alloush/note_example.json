@@ -1,0 +1,31 @@
+{
+    "title": "Rack",
+    "text": "jackson gfdgsfd",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126 Udhna",
+        "city": "san jone",
+        "state": "CA",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
+
+{
+    "title": "Rack2",
+    "text": "jackson gfdgsfd1",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126 Udhna",
+        "city": "san jone",
+        "state": "CA",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
