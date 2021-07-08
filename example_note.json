@@ -1,9 +1,9 @@
 {
     "title": "Rack",
     "text": "jackson gfdgsfd",
-    "gender": "man",
+    "articles": "man",
     "age": 24,
-    "address": {
+    "author": {
         "streetAddress": "126 Udhna",
         "city": "san jone",
         "state": "CA",
@@ -17,9 +17,9 @@
 {
     "title": "Rack2",
     "text": "jackson gfdgsfd1",
-    "gender": "man",
+    "articles": "man",
     "age": 24,
-    "address": {
+    "author": {
         "streetAddress": "126 Udhna",
         "city": "san jone",
         "state": "CA",
