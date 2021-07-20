@@ -33,8 +33,9 @@
     {
       "source": {
         "id": "cnn",
-        "name": "CNN"
+        
       },
+      "name": "CNN",
       "author": "تمارين2",
       "title": "Rudy Giuliani suspended from practicing law in Washington, DC - CNN ",
       "description": "ويعد رفع اللياقة البدنية من النشاطات الرياضية المهمة خصوصاً أن لهذه الرياضة المختلفة التمارين فوائد مثل إنقاص الوزن وآثار جسدية ونفسية إيجابية.\n أن لهذه الرياضة المختلفة التمارين فوائد مثل إنقاص الوزن وآثار جسدية ونفسية إيجابية.",
@@ -46,8 +47,9 @@
     {
       "source": {
         "id": "cbs-news",
-        "name": "CBS News"
+       
       },
+       "name": "CBS News",
       "author": "Sarah Sarah, Peter Martinez",
       "title": "18 victims recovered in Florida condo building collapse, bringing death toll to 54 - CBS News",
       "description": "Officials said 86 people are still unaccounted for. Crews will transition from search and rescue to a recovery operation by the end of the day.",
@@ -59,8 +61,9 @@
     {
       "source": {
         "id": "ars-technica",
-        "name": "Ars Technica"
+       
       },
+       "name": "Ars Technica",
       "author": "Beth Mole",
       "title": "mRNA vaccine technology moves to flu: Moderna says trial has begun - Ars Technica",
       "description": "Moderna aims for one seasonal shot for flu, COVID-19, respiratory viruses RSV and HMPV.",
@@ -72,8 +75,9 @@
     {
       "source": {
         "id": "the-verge",
-        "name": "The Verge"
+        
       },
+      "name": "The Verge",
       "author": "Sean Hollister",
       "title": "Another Amazon-first gadget brand has suspiciously vanished: Choetech - The Verge",
       "description": "At least six Amazon-first gadget brands have now mysteriously disappeared, including Aukey, Mpow, RavPower, Vava, TaoTronics, and now Choetech.",
@@ -85,8 +89,9 @@
     {
       "source": {
         "id": "politico",
-        "name": "Politico"
+        
       },
+      "name": "Politico",
       "author": "Leah Nylen",
       "title": "36 states, D.C. sue Google for alleged antitrust violations in its Android app store - POLITICO",
       "description": "The lawsuit filed in California federal court is the third by state attorneys general to target the company for alleged antitrust violations.",
@@ -98,8 +103,9 @@
     {
       "source": {
         "id": null,
-        "name": "KOB"
+        
       },
+      "name": "KOB",
       "author": "KOB Web Staff",
       "title": "New Mexico reports 1 new death, 83 additional COVID-19 cases - KOB",
       "description": "New Mexico reports 1 new death, 83 additional COVID-19 cases",
@@ -111,8 +117,9 @@
     {
       "source": {
         "id": "cnn",
-        "name": "CNN"
+        
       },
+      "name": "CNN",
       "author": "Eric Levenson, CNN",
       "title": "In Maryland, every person who died of Covid-19 in June was unvaccinated. That's not an aberration, experts say - CNN ",
       "description": "Last month, 130 people died of Covid-19 in Maryland. None of them were vaccinated, according to Maryland Gov. Larry Hogan.",
@@ -124,8 +131,9 @@
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+       
       },
+       "name": "Investor's Business Daily",
       "author": "Investor's Business Daily",
       "title": "Dow Jones Futures: Apple Leads Market Rally After Fed Minutes; Meme Stock Newegg Rockets; Tesla, Nio Fall - Investor's Business Daily",
       "description": "Apple led the major indexes to tiny gains. New meme stock Newegg soared. PayPal broke out. Tesla China sales are on tap.",
@@ -137,8 +145,9 @@
     {
       "source": {
         "id": "politico",
-        "name": "Politico"
+      
       },
+        "name": "Politico",
       "author": "Lara Seligman",
       "title": "Sources: U.S. troop withdrawal from Afghanistan complete 'for all intents and purposes' - POLITICO",
       "description": "The U.S. currently has roughly 600 troops in Afghanistan, most of whom are Marine Corps and Army personnel providing security at the U.S. Embassy in Kabul.",
@@ -150,8 +159,9 @@
     {
       "source": {
         "id": "ars-technica",
-        "name": "Ars Technica"
+        
       },
+      "name": "Ars Technica",
       "author": "Dan Goodin",
       "title": "Microsoft’s emergency patch fails to fix critical “PrintNightmare” vulnerability - Ars Technica",
       "description": "Game-over code-execution attacks are still possible even after fix is installed.",
@@ -163,8 +173,9 @@
     {
       "source": {
         "id": null,
-        "name": "Arizona Sports"
+       
       },
+       "name": "Arizona Sports",
       "author": "Kevin Zimmerman",
       "title": "Phoenix Suns have options to replace backup C Dario Saric - Arizona Sports",
       "description": "Would you have guessed Dario Saric had the best net rating (12.1) of any Suns players during these playoffs? Probably not.",
@@ -176,8 +187,9 @@
     {
       "source": {
         "id": "cnn",
-        "name": "CNN"
+       
       },
+       "name": "CNN",
       "author": "Megan Marples and Ashley Strickland, CNN",
       "title": "Massive X-class solar flare erupted from sun - CNN ",
       "description": "An X-class solar flare erupted from the sun on July 3, the first large solar flare of solar cycle 25.",
@@ -189,8 +201,9 @@
     {
       "source": {
         "id": null,
-        "name": "CNET"
+       
       },
+       "name": "CNET",
       "author": "Leslie Katz",
       "title": "What a 51,000-year-old carved bone tells us about Neanderthals - CNET",
       "description": "These ancient humans were artistic? Scientists keep finding ways to challenge Neanderthal stereotypes.",
@@ -202,8 +215,9 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
+        
       },
+      "name": "KTLA Los Angeles",
       "author": "Cindy Von Quednow, Lauren Lyster",
       "title": "More than $1B worth of marijuana seized during ‘historic’ bust in Antelope Valley: LASD - KTLA Los Angeles",
       "description": "Officials seized more than 16 tons of harvested marijuana from illegal grows in the Antelope Valley area last month in what L.A. County Sheriff’s Department officials called a “historic” bust. The street value of the seized plants is estimated at $1.19 billio…",
@@ -215,8 +229,9 @@
     {
       "source": {
         "id": "google-news",
-        "name": "Google News"
+       
       },
+       "name": "Google News",
       "author": null,
       "title": "Roger Federer Quarter-Final Press Conference | Wimbledon 2021 - Wimbledon",
       "description": null,
@@ -228,8 +243,9 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        
       },
+      "name": "New York Post",
       "author": "Aaron Feis",
       "title": "Haiti's president killed by 'well-trained professional commandos,' ambassador says - New York Post ",
       "description": "In the assassination, Jovenel Moïse was killed while Haiti’s First Lady was injured. Now, the country’s ambassador to the US Bocchit Edmond said the killers are “foreign mercenari…",
@@ -241,8 +257,9 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+       
       },
+       "name": "New York Post",
       "author": "Natalie O'Neill",
       "title": "Tropical Storm Elsa leaves thousands without power in Florida - New York Post ",
       "description": "Tropical Storm Elsa made landfall in Florida Wednesday, battering the state with wild winds and heavy rainfall — and leaving tens of thousands of people without power before it weakened and churned…",
@@ -254,8 +271,9 @@
     {
       "source": {
         "id": "nbc-news",
-        "name": "NBC News"
+       
       },
+       "name": "NBC News",
       "author": "Hayley Vaughn",
       "title": "Juvenile reworks hit 'Back That Thang Up' into pro-vaccine 'Vax That Thang Up' - NBC News",
       "description": "Rapper Juvenile has adapted his hit song 'Back That Thang Up' to turn it into a pro-vaccine anthem 'Vax That Thank Up' to encourage others to get vaccinated.",
